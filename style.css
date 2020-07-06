@@ -1,0 +1,26 @@
+
+/* nav area */
+
+.navbar-brand img {
+    width: 50%;
+}
+
+/* carousel area */
+
+.header-area {
+    background: url(images/header-bg.png);
+    background-size: 100%;
+}
+.carousel-indicators li{
+    width: 14px;
+    height: 8px;
+    border-top: 0;
+    border-bottom: 0;
+    border-radius: 15px;
+    background: #cecece;
+}
+.carousel-indicators .active{
+     width: 30px;
+     height: 8px;
+     background: linear-gradient(45deg, #FFB329, #FFD019);
+}
