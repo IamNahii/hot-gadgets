@@ -10,6 +10,7 @@
 .header-area {
     background: url(images/header-bg.png);
     background-size: 100%;
+    margin-bottom: 100px;
 }
 .carousel-indicators li{
     width: 14px;
@@ -23,4 +24,26 @@
      width: 30px;
      height: 8px;
      background: linear-gradient(45deg, #FFB329, #FFD019);
+}
+
+/* smartphone area */
+
+.smartphone {
+    margin-bottom: 100px;
+}
+.content-area {
+    margin-bottom: 20px;
+}
+.card {
+    border: none;
+    box-shadow: 3px 3px 10px;
+    border-radius: 10px;
+    padding: 30px;
+}
+.card img {
+    width: 70%;
+    margin: 0 auto;
+}
+.card-body {
+    text-align: center;
 }
